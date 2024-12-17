@@ -40,3 +40,7 @@ Mean Filtering adalah metode penyaringan citra yang digunakan untuk mengurangi n
 Untuk kernel berukuran 𝑚 × 𝑛 m×n, nilai piksel keluaran 𝑔 ( 𝑥 , 𝑦 ) g(x,y) di posisi ( 𝑥 , 𝑦 ) (x,y) dihitung sebagai:
 
 ![image](https://github.com/user-attachments/assets/5ec9ff79-35f8-4995-8d11-b57b5d13ea74)
+
+
+# Median Filtering
+Median Filtering adalah metode penyaringan citra non-linear yang digunakan untuk mengurangi noise, terutama Salt & Pepper Noise, dengan menjaga tepi (edges) citra lebih baik dibandingkan dengan mean filtering. Teknik ini bekerja dengan menggantikan nilai piksel pusat dengan median dari piksel-piksel dalam lingkungan (kernel) tertentu. Median filtering menggunakan jendela persegi dengan ukuran tertentu (misalnya, 3x3, 5x5, dll.).
