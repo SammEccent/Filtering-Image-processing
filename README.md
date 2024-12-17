@@ -27,4 +27,5 @@ Anggota Kelompok :
 
 Gaussian noise adalah jenis derau (noise) statistik yang memiliki fungsi distribusi probabilitas (PDF) yang mengikuti distribusi Gaussian (normal). Gaussian noise sering digunakan dalam berbagai bidang seperti pemrosesan sinyal, pemrosesan citra, dan telekomunikasi untuk memodelkan variasi acak atau kesalahan.
 Nilai-nilai derau mengikuti distribusi Gaussian dengan rata-rata ( 𝜇 μ) dan deviasi standar ( 𝜎 σ).
+
 ![image](https://github.com/user-attachments/assets/199c165c-8c9d-4702-b588-940d9ab8c3ca)
