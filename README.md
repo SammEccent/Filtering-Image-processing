@@ -13,9 +13,9 @@ Algoritma yang digunakan :
 4. Median Filtering
 
 Referensi :
-https://youtu.be/yQUwmLx6NGk?si=zkLOpnCzSIqKs_G0
-https://youtu.be/xCHbcVUCYBI?si=Ou9oFUp2NYWsL8-_
-https://youtu.be/StX_1iEO3ck?si=4l5IMnvdUEM3SwWi
+1. https://youtu.be/yQUwmLx6NGk?si=zkLOpnCzSIqKs_G0
+2. https://youtu.be/xCHbcVUCYBI?si=Ou9oFUp2NYWsL8-_
+3. https://youtu.be/StX_1iEO3ck?si=4l5IMnvdUEM3SwWi
 
 Anggota Kelompok : 
 1. Samirudin Annas Alfattah (221011402416)
