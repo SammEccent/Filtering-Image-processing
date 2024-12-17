@@ -29,3 +29,14 @@ Gaussian noise adalah jenis derau (noise) statistik yang memiliki fungsi distrib
 Nilai-nilai derau mengikuti distribusi Gaussian dengan rata-rata ( 𝜇 μ) dan deviasi standar ( 𝜎 σ).
 
 ![image](https://github.com/user-attachments/assets/199c165c-8c9d-4702-b588-940d9ab8c3ca)
+
+
+# Salt & Pepper Noise
+Salt and Pepper Noise adalah jenis derau (noise) yang muncul sebagai piksel putih (salt) dan piksel hitam (pepper) yang tersebar secara acak pada suatu citra. Noise ini disebut demikian karena kemunculannya menyerupai taburan garam (putih) dan merica (hitam) pada gambar. Gambar akan menampilkan bintik-bintik hitam (0) dan putih (255) yang tersebar secara acak pada area citra yang sebelumnya bersih.
+
+
+# Mean Filtering
+Mean Filtering adalah metode penyaringan citra yang digunakan untuk mengurangi noise dengan cara merata-ratakan nilai piksel dalam lingkungan (kernel) tertentu. Filter ini termasuk dalam kategori linear filters dan bekerja dengan menggantikan nilai setiap piksel dengan rata-rata dari piksel-piksel tetangganya dalam jendela filter. Mean filtering menggunakan jendela persegi panjang atau persegi dengan ukuran tertentu (misalnya, 3x3, 5x5, dll.).
+Untuk kernel berukuran 𝑚 × 𝑛 m×n, nilai piksel keluaran 𝑔 ( 𝑥 , 𝑦 ) g(x,y) di posisi ( 𝑥 , 𝑦 ) (x,y) dihitung sebagai:
+
+![image](https://github.com/user-attachments/assets/5ec9ff79-35f8-4995-8d11-b57b5d13ea74)
